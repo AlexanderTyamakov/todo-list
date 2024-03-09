@@ -1,4 +1,4 @@
-module todo-list
+module github.com/AlexanderTyamakov/todo-list
 
 go 1.21.3
 
