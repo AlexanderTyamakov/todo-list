@@ -1,4 +1,4 @@
-module TODO-LIST
+module todo-list
 
 go 1.21.3
 
